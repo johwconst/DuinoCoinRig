@@ -17,9 +17,9 @@ This project is a fun endeavor aimed at creating a [Duino-Coin](https://duinocoi
 #### Final Project 
 
 <p class="header" align="center">
- <img width="200px" src="./assets//images_of_prototype/image_1.jpg" align="center" alt="Image" />
- <img width="200px" src="./assets//images_of_prototype/image_2.jpg" align="center" alt="Image" />
- <img width="200px" src="./assets//images_of_prototype/image_3.jpg" align="center" alt="Image" />
+ <img width="400px" src="./assets//images_of_prototype/image_1.jpg" align="center" alt="Image" />
+ <img width="400px" src="./assets//images_of_prototype/image_2.jpg" align="center" alt="Image" />
+ <img width="400px" src="./assets//images_of_prototype/image_3.jpg" align="center" alt="Image" />
 </p>
 
 Video: 
@@ -47,7 +47,7 @@ const char *ssid = "YOUR_SSID"; // Change this to your WiFi SSID
 const char *password = "YOUR_SSID_PASSWORD"; // Change this to your WiFi password
 const String ducoUser = "YOUR_DUINO_USERNAME"; // Change this to your Duino-Coin username
 ```
-# Wiring:
+## Wiring:
 Change SDA and SCL accordingly with your board, this example with Wemos D1 Mini and DevKit V1
 
 || ESP8266 | ESP32 | OLED |
